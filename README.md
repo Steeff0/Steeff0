@@ -1,6 +1,18 @@
-### Hi there 👋
+Hi I'm Steven from the Netherlands. I like to play with code. Now mainly focussing on CI/CD techniques and tools, like
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+
+I also dabble a bit with
+- Java
+- Gradle
+- Scss (Bootstrap)
+
+More about what I play with privately I post on [https://steeff0.github.io](https://steeff0.github.io )
 
 <!--
+Hi there 👋
 **Steeff0/Steeff0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
