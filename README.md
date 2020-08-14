@@ -13,7 +13,7 @@ More about what I play with privately I post on [https://steeff0.github.io](http
 
 [![Steeff0's github stats](https://github-readme-stats.vercel.app/api?username=Steeff0&bg_color=000&text_color=bbb&icon_color=bbb&title_color=ddd&show_icons=true)](https://github.com/Steeff0)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steeff0)](https://github.com/Steeff0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steeff0&layout=compact)](https://github.com/Steeff0)
 
 <!--
 Hi there 👋
