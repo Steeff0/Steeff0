@@ -11,7 +11,7 @@ I also dabble a bit with
 
 More about what I play with privately I post on [https://steeff0.github.io](https://steeff0.github.io )
 
-[![Steeff0's github stats](https://github-readme-stats.vercel.app/api?username=Steeff0&theme=dark&show_icons=true)](https://github.com/Steeff0)
+[![Steeff0's github stats](https://github-readme-stats.vercel.app/api?username=Steeff0&theme=dark&show_icons=true&icon_color=fff)](https://github.com/Steeff0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steeff0)](https://github.com/Steeff0)
 
