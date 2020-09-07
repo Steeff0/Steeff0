@@ -40,10 +40,10 @@ I work als software engineer in the Netherlands. I do both front-end and back-en
 
 ## Where you can find me
 Contact me on:  
-[![Linkedin Steven Gerritsen](https://img.shields.io/static/v1?style=flat&logo=linkedin&label=&message=Linkedin&logoColor=fff&labelColor=555&color=452262)](https://www.linkedin.com/in/stevengerritsen/)
+[![Linkedin Steven Gerritsen](https://img.shields.io/static/v1?style=flat&logo=linkedin&label=&message=Linkedin&logoColor=fff&labelColor=555&color=390931)](https://www.linkedin.com/in/stevengerritsen/)
 
 If I have interesting projects, I write about these on:   
-[![My personal website](https://img.shields.io/static/v1?style=flat&label=My%20site&message=https%3A%2F%2Fsteeff0.github.io%2F&labelColor=555&color=452262)](https://steeff0.github.io/)
+[![My personal website](https://img.shields.io/static/v1?style=flat&label=My%20site&message=https%3A%2F%2Fsteeff0.github.io%2F&labelColor=555&color=390931)](https://steeff0.github.io/)
 
 ## My stats
 
