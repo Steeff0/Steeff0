@@ -4,7 +4,7 @@ I work als software engineer in the Netherlands. I do both front-end and back-en
 ## A little more about the tools and techniques I work with...
 ![Docker](https://img.shields.io/static/v1?style=flat&logo=docker&label=&message=Docker&logoColor=fff&labelColor=555&color=green)
 ![Kubernetes](https://img.shields.io/static/v1?style=flat&logo=kubernetes&label=&message=Kubernetes&logoColor=fff&labelColor=555&color=green)
-![Git](https://img.shields.io/static/v1?style=flat&logo=git&label=&message=Git&logoColor=fff&labelColor=555&color=green)
+![Git](https://img.shields.io/static/v1?style=flat&logo=git&label=&message=GIT&logoColor=fff&labelColor=555&color=green)
 ![Github](https://img.shields.io/static/v1?style=flat&logo=github&label=&message=Github&logoColor=fff&labelColor=555&color=green)
 ![Github Actions](https://img.shields.io/static/v1?style=flat&logo=github-actions&label=&message=Github%20Actions&logoColor=fff&labelColor=555&color=green)
 ![Jenkins](https://img.shields.io/static/v1?style=flat&logo=Jenkins&label=&message=Jenkins&logoColor=fff&labelColor=555&color=green)
