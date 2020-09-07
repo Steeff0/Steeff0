@@ -39,7 +39,7 @@ I work als software engineer in the Netherlands. I do both front-end and back-en
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=flat&logo=intellij-idea&label=&message=IntelliJ&logoColor=fff&labelColor=555&color=orange)
 
 ## Where you can find me
-Contact me on: 
+Contact me on:  
 [![Linkedin Steven Gerritsen](https://img.shields.io/static/v1?style=flat&logo=linkedin&label=&message=Linkedin&logoColor=fff&labelColor=555&color=green)](https://www.linkedin.com/in/stevengerritsen/)
 
 If I have interesting projects, I write about these on [https://steeff0.github.io](https://steeff0.github.io )
