@@ -15,18 +15,52 @@ More about what I play with privately I post on [https://steeff0.github.io](http
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steeff0&layout=compact&include_all_commits=true)](https://github.com/Steeff0)
 
-<!--
-Hi there 👋
-**Steeff0/Steeff0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&label=&message=java&color=ec0000&labelColor=ec0000)
 
-Here are some ideas to get you started:
+Scrum
+Jira
+DevOps
+Jenkins
+Jenkinsfiles
+NPM
+Lerna
+Gradle
+Maven
+Git
+Github
+Shell scripts
+Docker
+Image building
+Docker Swarm
+Configuration templating
+Docker Compose
+Apache HTTPD
+NGINX
+Elastic Search
+Prometheus
+Grafana
+Java
+Java web development
+Freemarker
+Springboot
+Log4j
+HTML
+SCSS
+Bootstrap 3 & 4
+Flexbox
+Liferay
+JSON
+REST
+Accessibility
+Usability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Google Analytics
+Artifactory
+Splunk
+XLDeploy
+JSP
+XML
+SOAP
+SQL
+UML
+Archimate
