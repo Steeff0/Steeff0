@@ -37,6 +37,7 @@ I work als software engineer in the Netherlands. I do both front-end and back-en
 ![Google](https://img.shields.io/static/v1?style=flat&logo=Google&label=&message=Google&logoColor=fff&labelColor=111&color=orange)
 ![Postman](https://img.shields.io/static/v1?style=flat&logo=Postman&label=&message=Postman&logoColor=fff&labelColor=111&color=orange)
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=flat&logo=intellij-idea&label=&message=IntelliJ&logoColor=fff&labelColor=111&color=orange)
+![Notepad++](https://img.shields.io/static/v1?style=flat&logo=notepadplusplus&label=&message=Notepad%2B%2B&logoColor=fff&labelColor=111&color=orange)
 
 ## Where you can find me
 Contact me on:  
