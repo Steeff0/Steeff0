@@ -50,4 +50,4 @@ If I have interesting projects, I write about these on:
 
 ![Steeff0's github stats](https://github-readme-stats.vercel.app/api?username=Steeff0&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steeff0&layout=compact&include_all_commits=true)](https://github.com/Steeff0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steeff0&layout=compact&count_private=true&include_all_commits=true&langs_count=5&exclude_repo=steeff0.github.io)](https://github.com/Steeff0)
