@@ -46,6 +46,9 @@ Contact me on:
 If I have interesting projects, I write about these on:   
 [![My personal website](https://img.shields.io/static/v1?style=flat&label=My%20site&message=https%3A%2F%2Fsteeff0.github.io%2F&labelColor=111&color=390931)](https://steeff0.github.io/)
 
+If you like what you see and want to support me:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U647LPC)
+
 ## My stats
 
 ![Steeff0's github stats](https://github-readme-stats.vercel.app/api?username=Steeff0&include_all_commits=true&count_private=true)
