@@ -2,7 +2,7 @@
 I work als software engineer in the Netherlands. I do both front-end and back-end development, but lean more towards back-end (don't ask me about colors and stuff). My focus now is more on DevOps engineering (as some call it), meaning I keep myself busy with source control, versioning, code building, monitoring, deployments, etc.
 
 ## A little more about the tools and techniques I work with...
-![Docker](https://img.shields.io/static/v1?style=flat&logo=docker&label=&message=Docker&logoColor=fff&labelColor=111&color=green)
+![alt text](https://img.shields.io/static/v1?style=flat&logo=docker&label=&message=Docker&logoColor=fff&labelColor=111&color=green "Docker")
 ![Kubernetes](https://img.shields.io/static/v1?style=flat&logo=kubernetes&label=&message=Kubernetes&logoColor=fff&labelColor=111&color=green)
 ![Git](https://img.shields.io/static/v1?style=flat&logo=git&label=&message=GIT&logoColor=fff&labelColor=111&color=green)
 ![Github](https://img.shields.io/static/v1?style=flat&logo=github&label=&message=Github&logoColor=fff&labelColor=111&color=green)
